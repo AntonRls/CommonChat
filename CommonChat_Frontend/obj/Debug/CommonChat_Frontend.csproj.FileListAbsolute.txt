@@ -1,0 +1,15 @@
+C:\Users\Антон\source\repos\CommonChat_Frontend\CommonChat_Frontend\bin\Debug\CommonChat_Frontend.exe.config
+C:\Users\Антон\source\repos\CommonChat_Frontend\CommonChat_Frontend\bin\Debug\CommonChat_Frontend.exe
+C:\Users\Антон\source\repos\CommonChat_Frontend\CommonChat_Frontend\bin\Debug\CommonChat_Frontend.pdb
+C:\Users\Антон\source\repos\CommonChat_Frontend\CommonChat_Frontend\obj\Debug\CommonChat_Frontend.csproj.AssemblyReference.cache
+C:\Users\Антон\source\repos\CommonChat_Frontend\CommonChat_Frontend\obj\Debug\CommonChat_Frontend.Form1.resources
+C:\Users\Антон\source\repos\CommonChat_Frontend\CommonChat_Frontend\obj\Debug\CommonChat_Frontend.Properties.Resources.resources
+C:\Users\Антон\source\repos\CommonChat_Frontend\CommonChat_Frontend\obj\Debug\CommonChat_Frontend.csproj.GenerateResource.cache
+C:\Users\Антон\source\repos\CommonChat_Frontend\CommonChat_Frontend\obj\Debug\CommonChat_Frontend.csproj.CoreCompileInputs.cache
+C:\Users\Антон\source\repos\CommonChat_Frontend\CommonChat_Frontend\obj\Debug\CommonChat_Frontend.exe
+C:\Users\Антон\source\repos\CommonChat_Frontend\CommonChat_Frontend\obj\Debug\CommonChat_Frontend.pdb
+C:\Users\Антон\source\repos\CommonChat_Frontend\CommonChat_Frontend\bin\Debug\api.dll
+C:\Users\Антон\source\repos\CommonChat_Frontend\CommonChat_Frontend\bin\Debug\api.pdb
+C:\Users\Антон\source\repos\CommonChat_Frontend\CommonChat_Frontend\obj\Debug\CommonChat_Frontend.csproj.CopyComplete
+C:\Users\Антон\source\repos\CommonChat_Frontend\CommonChat_Frontend\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Антон\source\repos\CommonChat_Frontend\CommonChat_Frontend\bin\Debug\Newtonsoft.Json.xml
