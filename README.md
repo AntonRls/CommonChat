@@ -1,4 +1,4 @@
-# CommonChat
+# Common-Chat
 Общий чат.
 
 В репозитории вы можете найти, как и Backend, так и Frontend общего чата
