@@ -9,6 +9,11 @@ Backend чата написан на чистом PHP, без использов
 
 Если у вас есть вопросы по софту, то можете написать мне на почту: piskorskiy.anton@gmail.com
 
+
+
+https://user-images.githubusercontent.com/74132592/179360091-55b81e64-7e12-41a2-8926-9383da38b108.mp4
+
+
 <hr></hr>
 Если в качестве сервера у вас Apache, то вы должны прописать такую команду: <b>sudo chown -R www-data:www-data /var/www</b>
 Иначе скрипт не сможет создавать сообщения
